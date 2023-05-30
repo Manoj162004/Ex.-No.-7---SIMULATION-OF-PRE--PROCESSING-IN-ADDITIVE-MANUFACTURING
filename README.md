@@ -48,7 +48,7 @@
 
 
 ### Name: Manoj S
-### Register Number:21222210002
+### Register Number:212222100025
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
