@@ -45,7 +45,6 @@
 
 ## Output:
 
-![ex-7-image](https://github.com/Manoj162004/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/120365042/eada8b31-b909-4484-b9d2-50b10868efa3)
 
 ### Name: Manoj S
 ### Register Number:21222210002
